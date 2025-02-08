@@ -35,6 +35,14 @@ export const styles= StyleSheet.create({
         marginTop: 10,
 
     },
+    button: {
+        backgroundColor: '#4CAF50',  
+        padding: 10,                 
+        margin: 5,                   
+        borderRadius: 5,             
+        alignItems: 'center',        
+        justifyContent: 'center',    
+    },
     inputText11: {
         backgroundColor: INPUT_COLOR,
         position: 'absolute',
